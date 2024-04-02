@@ -6,3 +6,4 @@ transformers
 PyPDF2
 pytesseract
 pillow
+sentencepiece
