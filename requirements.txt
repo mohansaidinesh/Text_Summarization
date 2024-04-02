@@ -1,0 +1,7 @@
+streamlit
+SpeechRecognition
+pydub
+torch
+transformers
+PyPDF2pytesseract
+pillow
