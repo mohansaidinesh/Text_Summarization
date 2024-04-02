@@ -3,5 +3,6 @@ SpeechRecognition
 pydub
 torch
 transformers
-PyPDF2pytesseract
+PyPDF2
+pytesseract
 pillow
